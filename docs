@@ -1,0 +1,34 @@
+
+directService
+"Indirect Services Only",
+"Direct Services Agency",
+
+Service(detail)
+"Case Management",
+"Crisis Services",
+"Emergency Shelter",
+"Family Reunification",
+"Health Care",
+"Legal Services - Civil",
+"Legal Services - Immigration",
+"Long-term Housing",
+"Outreach/Awareness",
+"Repatriation",
+"Supportive Counseling",
+"Survivor Leadership",
+"Training",
+"Transitional Housing",
+"Transportation Assistance",
+"Volunteer Opportunities",
+
+Population
+"Adult",
+"Citizen/Legal Permanent Resident",
+"Female",
+"Foreign National",
+"Labor Trafficking"
+"Male",
+"Minor (Under 18)",
+"Sex Trafficking",
+"Transgender Male-to-Female",
+"Transgender Female-to-Male",
